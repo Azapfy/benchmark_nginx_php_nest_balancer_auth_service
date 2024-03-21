@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SimulationAuthServerPHP7WithAuth",
+  "simulationId": "simulationauthserverphp7withauth",
+  "start": 1710972301528,
+  "description": "",
+  "scenarios": ["Login on Nginx PHP7 + Auth Server in Node"],
+  "assertions": [
+
+  ]
+}

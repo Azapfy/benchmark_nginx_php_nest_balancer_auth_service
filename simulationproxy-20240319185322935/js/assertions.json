@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SimulationProxy",
+  "simulationId": "simulationproxy",
+  "start": 1710874402935,
+  "description": "",
+  "scenarios": ["Login on ProxyPHP7"],
+  "assertions": [
+
+  ]
+}

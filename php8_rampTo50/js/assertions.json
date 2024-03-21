@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SimulationPHP8",
+  "simulationId": "simulationphp8",
+  "start": 1710862690191,
+  "description": "",
+  "scenarios": ["Login on PHP8"],
+  "assertions": [
+
+  ]
+}

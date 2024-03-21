@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SimulationAuthServer",
+  "simulationId": "simulationauthserver",
+  "start": 1710955866985,
+  "description": "",
+  "scenarios": ["Login on Nginx + Auth Server in Node"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SimulationNode",
+  "simulationId": "simulationnode",
+  "start": 1710866369484,
+  "description": "",
+  "scenarios": ["Login on NestJS"],
+  "assertions": [
+
+  ]
+}
